@@ -2,7 +2,13 @@
 - 👀 Interested in Embedded Systems, Robotics (ROS), Linux ...
 - 🌱 I write Firmware for a living ...
 - 💞️ Looking to collaborate on Robotics projects ...
-- 📫 Reach me @ https://www.linkedin.com/in/debmaitra 
+- 📫 Reach me @ https://www.linkedin.com/in/debmaitra
+- Things I do at my current job ...
+  - run tasks on a multi-tasking OS running on Intel Nios II SoPC emulated inside Altera Cyclone V FPGA [.. think Inception.. Dream within a Dream within a Dream ..! :D]
+  - develop userspace apps(system programming) on Embedded Linux for NXP iMX6 SoC,
+  - build custom kernel & perform kernel customization using Yocto Project,
+  - remote debugging of product at Client premise using gdb,
+  - tinker with Linux kernel module programming
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMTech&layout=compact&langs_count=16theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
